@@ -73,7 +73,7 @@ We encourage club members to contribute solutions to the repository! Whether you
 
 ### Review Process
 
-The club organisers will review your pull request. Once approved, your contributions will be merged i
+The club organisers will review your pull request. Once approved, your contributions will be merged.
 
 ## Contact
 
